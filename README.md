@@ -1,5 +1,7 @@
 # @jalez/react-shortcuts-provider
 
+[![codecov](https://codecov.io/gh/jalez/react-shortcuts-provider/branch/main/graph/badge.svg)](https://codecov.io/gh/jalez/react-shortcuts-provider)
+
 A React context/provider and utilities for managing keyboard shortcuts in your app. This library provides a decoupled, registry-based keyboard shortcuts system that allows components to register actions with specific key combinations without being tightly coupled to other components.
 
 ## Installation
